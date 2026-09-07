@@ -42,11 +42,4 @@ Streamlit app that converts audio/video lectures into structured notes with extr
 
 ---
 
-## 📊 GitHub Stats
-
-![Shrushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrushtid13&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtid13&layout=compact&hide_border=true)
-
----
-
 ⭐️ If any of these projects are useful or interesting to you, a star is always appreciated!
