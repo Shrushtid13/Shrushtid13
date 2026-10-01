@@ -1,11 +1,11 @@
 # Shrushtid13
 # Hi, I'm Shrushti 👋
 
-Final-year Computer Engineering student who builds full-stack, production-facing systems — from React interfaces down to the backend services, databases, and LLM-agent workflows underneath them.
+Final-year Artificial Intelligence and Data Science Engineering student who builds full-stack, production-facing systems — from React interfaces down to the backend services, databases, and LLM-agent workflows underneath them.
 
 I care about the boring-but-important part of AI systems: keeping the deterministic parts of a pipeline deterministic, even when the model output isn't.
 
-- 🎓 B.E. Computer Engineering (Final Year), Ajeenkya D. Y. Patil School of Engineering, Pune — CGPA 8.95/10
+- 🎓 B.E.  Artificial Intelligence and Data Science (Final Year), Ajeenkya D. Y. Patil School of Engineering, Pune — CGPA 8.95/10
 - 💼 Software Development Intern @ Softtrine Solutions — backend systems for OneClarity (Node.js, Express.js, REST APIs)
 - 🌱 Currently deepening my work with LangGraph, multi-agent orchestration, and safety guardrails around LLM-driven systems
 - 📫 Reach me at shrushti2005md@gmail.com or [LinkedIn](https://www.linkedin.com/in/shrushti-deshmukh01)
